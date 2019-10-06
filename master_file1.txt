@@ -5,3 +5,4 @@ This text is for the first commit for branch feature-C.
 This text is for the second commit for branch feature-C.
 This text is for the third commit for branch feature-C.
 This text is for the fourth commit for branch feature-C.
+This text is for the fifth commit for branch feature-C.

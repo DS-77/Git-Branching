@@ -2,3 +2,4 @@ Made feature-A branch.
 This text is for the second commit for branch feature-A.
 This text is for the third commit for branch feature-A.
 This text is for the first commit for branch feature-C.
+This text is for the second commit for branch feature-C.

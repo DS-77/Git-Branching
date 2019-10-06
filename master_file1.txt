@@ -1,1 +1,2 @@
 Made feature-A branch.
+This text is for the second commit for branch feature-A
